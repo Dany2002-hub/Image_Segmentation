@@ -1,1 +1,2 @@
-# Image_Segmentation
+# Image_Segmentation_using_Random_Walker_Algorithm
+
